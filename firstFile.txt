@@ -1,0 +1,5 @@
+# Taking input from the user
+# user_name = input("What is your name? ")
+ #user_age = input("How old are you? ")
+ new file added in git hub
+ 
